@@ -1,6 +1,14 @@
 ## VHDL, Verilog & SystemVerilog Logos
 
 ### Color Logos
+**SystemVerilog Logo**  
+![SystemVerilog Logo](systemverilog_logo_color.png)  
+
+**Verilog Logo**  
+![Verilog Logo](verilog_logo_color.png)  
+
+**VHDL Logo**  
+![VHDL Logo](vhdl_logo_color.png)  
 
 **VHDL Logo**  
 ![VHDL Logo](vhdl_logo.png)  
